@@ -1,4 +1,4 @@
-# Voting System
+# Voting System Application
 
 This is a simple Java program that allows users to conduct a voting process and obtain the voting results.
 
