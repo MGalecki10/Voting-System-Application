@@ -35,9 +35,9 @@ The **'VotingResult'** class maintains a **'voteMap'** which stores the votes ma
 ```
 Jak głosuje Jan Kowalski? (z - za, p - przeciw, w - wstrzymanie się)
 z
-Jak głosuje Zigniew Siobro? (z - za, p - przeciw, w - wstrzymanie się)
+Jak głosuje Dominik Stankiewicz? (z - za, p - przeciw, w - wstrzymanie się)
 p
-Jak głosuje Zbyszek Stonoga? (z - za, p - przeciw, w - wstrzymanie się)
+Jak głosuje Dariusz Nowak? (z - za, p - przeciw, w - wstrzymanie się)
 w
 
 Głosów za: 33.33%
@@ -45,8 +45,8 @@ Głosów przeciw: 33.33%
 Wstrzymało się: 33.33%
 
 Jan Kowalski: ZA
-Zigniew Siobro: PRZECIW
-Zbyszek Stonoga: WSTRZYMAŁ SIĘ
+Dominik Stankiewicz: PRZECIW
+Dariusz Nowak: WSTRZYMAŁ SIĘ
 ```
 
 **Note:** This is a basic implementation and may not cover all possible scenarios or error handling. It serves as a starting point for understanding and building more complex voting systems.
